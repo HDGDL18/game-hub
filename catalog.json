@@ -1,4 +1,27 @@
 {
   "hubVersion": "1.1.0",
-  "games": []
+  "games": [
+    {
+      "id": "arena",
+      "title": "ARENA",
+      "description": "LAN-Ego-Shooter",
+      "icon": "🎯",
+      "version": "39",
+      "file": "arena.exe",
+      "sha256": "9c44ee31021a2fc689f8d014954895ce59015e9d128824c98ac81e8672af1d03",
+      "size": 9121792,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/arena-39/arena.exe"
+    },
+    {
+      "id": "turbo",
+      "title": "TURBO",
+      "description": "LAN-Rennspiel",
+      "icon": "🏎️",
+      "version": "1.2.0",
+      "file": "turbo.exe",
+      "sha256": "f573bc2250aaee7bac14f2b15e1bcd6af43d663a028e42bd0cf6b1eccb95e92f",
+      "size": 7916032,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/turbo-1.2.0/turbo.exe"
+    }
+  ]
 }
