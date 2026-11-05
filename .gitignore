@@ -1,0 +1,7 @@
+node_modules/
+share/
+settings.json
+games.json
+publish.json
+*.bak*
+*.part
