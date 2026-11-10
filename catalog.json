@@ -17,11 +17,11 @@
       "title": "TURBO",
       "description": "LAN-Rennspiel",
       "icon": "🏎️",
-      "version": "1.2.7",
+      "version": "1.3.0",
       "file": "turbo.exe",
-      "sha256": "a2717e5d37eee2e7458d235f5bff2c96b710c99ae5f90cc78c2f6344ca94a0c8",
-      "size": 8808448,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/turbo-1.2.7/turbo.exe"
+      "sha256": "b7c855282e0afb7319f2209d4da39152ab0d61beb62273c95a26863765602141",
+      "size": 8824320,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/turbo-1.3.0/turbo.exe"
     },
     {
       "id": "uno",
