@@ -17,22 +17,22 @@
       "title": "TURBO",
       "description": "LAN-Rennspiel",
       "icon": "🏎️",
-      "version": "1.2.0",
+      "version": "1.2.7",
       "file": "turbo.exe",
-      "sha256": "f573bc2250aaee7bac14f2b15e1bcd6af43d663a028e42bd0cf6b1eccb95e92f",
-      "size": 7916032,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/turbo-1.2.0/turbo.exe"
+      "sha256": "a2717e5d37eee2e7458d235f5bff2c96b710c99ae5f90cc78c2f6344ca94a0c8",
+      "size": 8808448,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/turbo-1.2.7/turbo.exe"
     },
     {
       "id": "uno",
       "title": "UNO",
       "description": "LAN-Kartenspiel",
       "icon": "🃏",
-      "version": "1.0.0",
+      "version": "1.0.3",
       "file": "uno.exe",
-      "sha256": "4a0963900e1dbf7ee26160dd613259a32c5c7647e038d61d072192cd60d84bdf",
-      "size": 6164480,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/uno-1.0.0/uno.exe"
+      "sha256": "dfa3d44daee45fca846630587766a711b54218e9dbd70859271a4931419c12aa",
+      "size": 6184448,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/uno-1.0.3/uno.exe"
     }
   ]
 }
