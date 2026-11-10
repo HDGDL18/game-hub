@@ -33,6 +33,17 @@
       "sha256": "dfa3d44daee45fca846630587766a711b54218e9dbd70859271a4931419c12aa",
       "size": 6184448,
       "url": "https://github.com/HDGDL18/game-hub/releases/download/uno-1.0.3/uno.exe"
+    },
+    {
+      "id": "mario",
+      "title": "SUPER MARIO 2D",
+      "description": "Jump & Run (Solo)",
+      "icon": "🍄",
+      "version": "1.0.0",
+      "file": "mario.exe",
+      "sha256": "e199e31a020f05b4f5ee32bd9224b73b4f48dcfffc861412a7c1111c39dd05d7",
+      "size": 5774848,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/mario-1.0.0/mario.exe"
     }
   ]
 }
