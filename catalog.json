@@ -37,13 +37,13 @@
     {
       "id": "glimmerwelt",
       "title": "Glimmerwelt",
-      "description": "Sammel-Abenteuer in 3D (Solo)",
+      "description": "3D-Abenteuer zum Erkunden (1–4 Spieler)",
       "icon": "💎",
-      "version": "1.0.0",
+      "version": "3.0.0",
       "file": "glimmerwelt.exe",
-      "sha256": "65becd33041e9b6804406b5b68017b1403fa3f23c3ce7c4ba5acf8910c869d6d",
-      "size": 7230464,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/glimmerwelt-1.0.0/glimmerwelt.exe"
+      "sha256": "48d738a3e78e8e7adf997251a001755fbbc787cee44c7bd74977f3061af0615a",
+      "size": 7787520,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/glimmerwelt-3.0.0/glimmerwelt.exe"
     }
   ]
 }
