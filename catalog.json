@@ -35,17 +35,6 @@
       "url": "https://github.com/HDGDL18/game-hub/releases/download/uno-1.0.3/uno.exe"
     },
     {
-      "id": "mario",
-      "title": "SUPER MARIO 2D",
-      "description": "Jump & Run (Solo)",
-      "icon": "🍄",
-      "version": "1.0.0",
-      "file": "mario.exe",
-      "sha256": "89e724c6a3a549da5b25f7dd9596f8f5eb016a18d9d5a1c8fc9b4f1aef8d7da3",
-      "size": 6327296,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/mario-1.0.0/mario.exe"
-    },
-    {
       "id": "cubix-quest",
       "title": "CUBIX Quest",
       "description": "Stufenabenteuer (Solo)",
