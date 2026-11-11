@@ -41,9 +41,20 @@
       "icon": "🍄",
       "version": "1.0.0",
       "file": "mario.exe",
-      "sha256": "205e6548beed625ec058f2c076c46c38185f4405983a03681451328956410d29",
-      "size": 5775872,
+      "sha256": "89e724c6a3a549da5b25f7dd9596f8f5eb016a18d9d5a1c8fc9b4f1aef8d7da3",
+      "size": 6327296,
       "url": "https://github.com/HDGDL18/game-hub/releases/download/mario-1.0.0/mario.exe"
+    },
+    {
+      "id": "cubix-quest",
+      "title": "CUBIX Quest",
+      "description": "Stufenabenteuer (Solo)",
+      "icon": "🧊",
+      "version": "1.0.0",
+      "file": "cubix-quest.exe",
+      "sha256": "ce4f56c23e0af8ef87342d85afce973ab587eb2c5dc0b33dcc879db2a6a79aeb",
+      "size": 7256064,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/cubix-quest-1.0.0/cubix-quest.exe"
     }
   ]
 }
