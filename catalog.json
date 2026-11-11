@@ -33,17 +33,6 @@
       "sha256": "dfa3d44daee45fca846630587766a711b54218e9dbd70859271a4931419c12aa",
       "size": 6184448,
       "url": "https://github.com/HDGDL18/game-hub/releases/download/uno-1.0.3/uno.exe"
-    },
-    {
-      "id": "cubix-quest",
-      "title": "CUBIX Quest",
-      "description": "Stufenabenteuer (Solo)",
-      "icon": "🧊",
-      "version": "1.0.0",
-      "file": "cubix-quest.exe",
-      "sha256": "ce4f56c23e0af8ef87342d85afce973ab587eb2c5dc0b33dcc879db2a6a79aeb",
-      "size": 7256064,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/cubix-quest-1.0.0/cubix-quest.exe"
     }
   ]
 }
