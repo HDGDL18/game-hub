@@ -50,11 +50,11 @@
       "title": "DRIFT",
       "description": "Drift-Spiel mit Open World, Tuning und WLAN-Lobby (1–8 Spieler)",
       "icon": "🏁",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "file": "drift.exe",
-      "sha256": "72d8cdb08ee7211e7777f17e89a4683f408c315ae38a7a08aac4fcd5c30b411c",
+      "sha256": "917a486d7adcee6bac6d202940a0b8dc0806878ec55ec055380df7e73a7f4c2e",
       "size": 7519232,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/drift-1.0.0/drift.exe"
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/drift-1.0.1/drift.exe"
     }
   ]
 }
