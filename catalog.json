@@ -39,11 +39,11 @@
       "title": "Glimmerwelt",
       "description": "3D-Abenteuer zum Erkunden (1–4 Spieler, WLAN-Lobby)",
       "icon": "🪙",
-      "version": "3.4.0",
+      "version": "3.5.0",
       "file": "glimmerwelt.exe",
-      "sha256": "24b44c52010561eb898bd216ebdbb4f5f9e7e19f34ee8414702a3394ea92e3eb",
-      "size": 8181248,
-      "url": "https://github.com/HDGDL18/game-hub/releases/download/glimmerwelt-3.4.0/glimmerwelt.exe"
+      "sha256": "2f08018c4c7b61de968f5d1102c0e157f8622b6fa23d4fc0f7c2f1e2f0e94483",
+      "size": 8182784,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/glimmerwelt-3.5.0/glimmerwelt.exe"
     }
   ]
 }
