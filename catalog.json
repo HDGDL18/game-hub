@@ -44,6 +44,17 @@
       "sha256": "96fd15191a7ea7ffb19312d439b796edf698a616dd04e667061a54667fb3386e",
       "size": 8168960,
       "url": "https://github.com/HDGDL18/game-hub/releases/download/glimmerwelt-3.6.0/glimmerwelt.exe"
+    },
+    {
+      "id": "drift",
+      "title": "DRIFT",
+      "description": "Drift-Spiel mit Open World, Tuning und WLAN-Lobby (1–8 Spieler)",
+      "icon": "🏁",
+      "version": "1.0.0",
+      "file": "drift.exe",
+      "sha256": "7e42afe92f57210d5caee29628e53585471d9d4fe38d3f1df7e927278ebf882b",
+      "size": 7519232,
+      "url": "https://github.com/HDGDL18/game-hub/releases/download/drift-1.0.0/drift.exe"
     }
   ]
 }
